@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Thirukural Quiz</string>
+    <string name="thirukural">உள்ளத்தால் உள்ளலும் தீதே பிறன்பொருளைக்
+        கள்ளத்தால் கள்வேம் எனல்.</string>
+    <string name="t1">ஆகிய</string>
+    <string name="t2">ஆக்கம்</string>
+    <string name="t3">அளவிறந்து</string>
+    <string name="t4">பொருள்கருதிப்</string>
+    <string name="dash">__________</string>
+    <string name="next">Next</string>
+    <!-->Ads<-->
+    <string name="appId">ca-app-pub-3418152441595815~3939962555</string>
+    <string name="adUnitIdVideo">ca-app-pub-3418152441595815/9489293392</string>
+</resources>

@@ -11,4 +11,7 @@
     <!-->Ads<-->
     <string name="appId">ca-app-pub-3418152441595815~3939962555</string>
     <string name="adUnitIdVideo">ca-app-pub-3418152441595815/9489293392</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
